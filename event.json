@@ -1,0 +1,20 @@
+{
+    "Records": [{
+        "EventSource": "aws:sns",
+        "EventVersion": "1.0",
+        "EventSubscriptionArn": "arn:aws:sns:us-east-1:417440916433:komposer-test:e945a760-9b08-448f-b7df-5ce8bc5c55d3",
+        "Sns": {
+            "Type": "Notification",
+            "MessageId": "bb2c4182-0621-5cf0-b2ca-100a58fe5a03",
+            "TopicArn": "arn:aws:sns:us-east-1:417440916433:komposer-test",
+            "Subject": "Testing 1234",
+            "Message": "Test publish from local",
+            "Timestamp": "2017-05-06T23:30:39.303Z",
+            "SignatureVersion": "1",
+            "Signature": "A9BDRXouhzZKKRT4aczoJ+zbQKqzo3BGPFmmA9CSJflSGiXdLj2/3iR0mrAxsm4/VaqTy1gdxkPwOiKP5U9cdPJXEiNPuUSz7DjdQrX5cq94ZiGAw5y7MnWJCsHCS1riq1dOIrLwD2V5lBza0iUhuR+QtMLlo9nAJIQ7wW/R8WKeg8sISAYg0OCai8C3rsQhq7c4pOSaxDxxgXOXNPo5fcLjAB/E0XNgh2U5UX82bmUg2by0uJmgWT2V7j83XqmW5aeto5rTSLzZCGq2p1UQSBxTPl9kT6ng7Q11LHBPEs29LCSA4CIHFWfzsfxVnQxKvqmjF7BvDfdXHrnb/QnmNA==",
+            "SigningCertUrl": "https://sns.us-east-1.amazonaws.com/SimpleNotificationService-b95095beb82e8f6a046b3aafc7f4149a.pem",
+            "UnsubscribeUrl": "https://sns.us-east-1.amazonaws.com/?Action=Unsubscribe&SubscriptionArn=arn:aws:sns:us-east-1:417440916433:komposer-test:e945a760-9b08-448f-b7df-5ce8bc5c55d3",
+            "MessageAttributes": {}
+        }
+    }]
+}
